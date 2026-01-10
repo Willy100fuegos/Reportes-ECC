@@ -62,7 +62,6 @@ Por razones de seguridad y peso, el repositorio **NO incluye** las siguientes ca
 │   ├── fpdf/       <-- Descomprime FPDF aquí
 │   └── phpmailer/  <-- Descomprime PHPMailer aquí
 ├── uploads/        <-- AQUÍ se guardarán las fotos y PDFs
-
 2. Instalación de Dependencias
 Descarga las librerías necesarias y colócalas en la carpeta libs que acabas de crear:
 
